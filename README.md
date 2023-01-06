@@ -57,4 +57,3 @@ would be useful for solving in the file called "TP examples", the list isn't
 comprehensive and this algorithm can really be applied to almost any optimization problem. 
 I will include some of these in the demo for the TP3 deliverable.
 
-THANK YOU SO MUCH FOR TAKING THE TIME TO GUIDE ME THROUGH THIS PROCESS!!!!
